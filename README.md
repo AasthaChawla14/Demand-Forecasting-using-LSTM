@@ -2,7 +2,7 @@
 This repository contains the code and documentation for a supply chain demand forecasting academic project using Long Short-Term Memory (LSTM) neural networks. The project aims to improve the accuracy of demand forecasts, contributing to efficient inventory management and decision-making in supply chain operations.
 
 # Motivation
-Supply chain management relies heavily on accurate demand forecasting to optimize inventory levels, streamline production planning, foster collaboration chains, and enhance customer satisfaction and our focus was to improve forecasting accuracy using machine learning, particularly LSTM models.
+Supply chain management relies on accurate demand forecasting to optimize inventory levels, streamline production planning, foster collaboration chains, and enhance customer satisfaction and our focus was to improve forecasting accuracy using machine learning, particularly LSTM models.
 
 # Key-Features
 1. LSTM Model Implementation: The project employs LSTM neural networks for accurate demand forecasting.
